@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-04-23 17:48:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2021-04-23 17:46:53 +0200",
+      "roofed_forest": "2021-04-23 17:47:34 +0200"
+    },
+    "done": false
+  }
+}
